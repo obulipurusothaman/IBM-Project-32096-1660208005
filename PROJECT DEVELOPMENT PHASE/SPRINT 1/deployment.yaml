@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
         - name: ibm_project
-          image: docker.io/Mukesh30012002/ibm_project:v3
+          image: docker.io/samuktha2002/ibm_project:v3
           ports:
             - containerPort: 5000
       imagePullSecrets:
